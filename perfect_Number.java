@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Main {
   public static void main(String[] args) {
    
-   // Mükemmel sayı kendisi haricindeki tüm çarpanlarının toplamı kendisini veren sayıdır.
+   // Mükemmel sayı kendisi haricindeki tüm pozitif çarpanlarının toplamı kendisini veren sayıdır.
   
   Scanner scanner = new Scanner(System.in);
   System.out.print("Lütfen sayı giriniz : ");
